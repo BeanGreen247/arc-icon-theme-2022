@@ -31,7 +31,7 @@ to
 
 Installation via autotools:
 
-    git clone https://github.com/BeanGreen247/arc-icon-theme-2022 --depth 1 && cd arc-icon-theme
+    git clone https://github.com/BeanGreen247/arc-icon-theme-2022 --depth 1 && cd arc-icon-theme-2022
     ./autogen.sh --prefix=/usr
     sudo make install
 
