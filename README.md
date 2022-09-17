@@ -1,5 +1,8 @@
 # Arc Icon Theme
 
+Notes added by BeanGreen247
+* This project may or may not contain new items or elements. It is mainly created to keep the arc theme project alive and have yet another source for it.
+
 **Note:** This is still unfinished. It may not work as expected in some cases.
 
 At the moment this theme mainly includes icons for folders and mimetypes.
@@ -28,7 +31,7 @@ to
 
 Installation via autotools:
 
-    git clone https://github.com/horst3180/arc-icon-theme --depth 1 && cd arc-icon-theme
+    git clone https://github.com/BeanGreen247/arc-icon-theme-2022 --depth 1 && cd arc-icon-theme
     ./autogen.sh --prefix=/usr
     sudo make install
 
@@ -45,6 +48,6 @@ from the same directory as this README resides in, or
     sudo rm -rf /usr/share/icons/Arc
 
 ### Preview
-![Preview](https://i.imgur.com/yCO1aeP.png)
+![Preview](/img/yCO1aeP.png)
 
 License: GPLv3
